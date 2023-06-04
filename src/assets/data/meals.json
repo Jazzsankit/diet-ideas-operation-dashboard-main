@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "meal_list_name": "Nasi Lemak",
+    "serving_size": "scoop",
+    "carbs": 33,
+    "protein": 2.4,
+    "fat": 2.7,
+    "calories": 510,
+    "date_created": "11/11/2022"
+  },
+  {
+    "id": 2,
+    "meal_list_name": "Nasi Lemak",
+    "serving_size": "scoop",
+    "carbs": 33,
+    "protein": 2.4,
+    "fat": 2.7,
+    "calories": 510,
+    "date_created": "11/11/2022"
+  },
+  {
+    "id": 3,
+    "meal_list_name": "Nasi Lemak",
+    "serving_size": "scoop",
+    "carbs": 33,
+    "protein": 2.4,
+    "fat": 2.7,
+    "calories": 510,
+    "date_created": "11/11/2022"
+  },
+  {
+    "id": 4,
+    "meal_list_name": "Nasi Lemak",
+    "serving_size": "scoop",
+    "carbs": 33,
+    "protein": 2.4,
+    "fat": 2.7,
+    "calories": 510,
+    "date_created": "11/11/2022"
+  },
+  {
+    "id": 5,
+    "meal_list_name": "Nasi Lemak",
+    "serving_size": "scoop",
+    "carbs": 33,
+    "protein": 2.4,
+    "fat": 2.7,
+    "calories": 510,
+    "date_created": "11/11/2022"
+  },
+  {
+    "id": 6,
+    "meal_list_name": "Nasi Lemak",
+    "serving_size": "scoop",
+    "carbs": 33,
+    "protein": 2.4,
+    "fat": 2.7,
+    "calories": 510,
+    "date_created": "11/11/2022"
+  }
+]

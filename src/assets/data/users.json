@@ -1,0 +1,99 @@
+{
+  "clients": [
+    {
+      "id": 1,
+      "client_name": "client1",
+      "date_of_birth": "12/12/1990",
+      "age": 33,
+      "contact_number": "+60109678123",
+      "state": "Perak",
+      "email_address": "george@gmail.com",
+      "service_name": "service 1",
+      "meal_plan_created_date": "12/12/2022",
+      "joined_date": "12/12/2022",
+      "expiry_date": "01/02/2023",
+      "height": 170,
+      "weight": 70,
+      "role": "client",
+      "status": "active"
+    },
+    {
+      "id": 2,
+      "client_name": "client1",
+      "date_of_birth": "12/12/1990",
+      "age": 33,
+      "contact_number": "+60109678123",
+      "state": "Perak",
+      "email_address": "george@gmail.com",
+      "service_name": "service 1",
+      "meal_plan_created_date": "12/12/2022",
+      "joined_date": "12/12/2022",
+      "expiry_date": "01/02/2023",
+      "height": 170,
+      "weight": 70,
+      "role": "client",
+      "status": "active"
+    },
+    {
+      "id": 3,
+      "client_name": "client1",
+      "date_of_birth": "12/12/1990",
+      "age": 33,
+      "contact_number": "+60109678123",
+      "state": "Perak",
+      "email_address": "george@gmail.com",
+      "service_name": "service 1",
+      "meal_plan_created_date": "12/12/2022",
+      "joined_date": "12/12/2022",
+      "expiry_date": "01/02/2023",
+      "height": 170,
+      "weight": 70,
+      "role": "client",
+      "status": "active"
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "user",
+      "role": "admin",
+      "created_on": "11/11/2022"
+    },
+    {
+      "id": 2,
+      "name": "user",
+      "role": "admin",
+      "created_on": "11/11/2022"
+    },
+    {
+      "id": 3,
+      "name": "user",
+      "role": "admin",
+      "created_on": "11/11/2022"
+    },
+    {
+      "id": 4,
+      "name": "user",
+      "role": "admin",
+      "created_on": "11/11/2022"
+    },
+    {
+      "id": 5,
+      "name": "user",
+      "role": "admin",
+      "created_on": "11/11/2022"
+    },
+    {
+      "id": 6,
+      "name": "user",
+      "role": "admin",
+      "created_on": "11/11/2022"
+    },
+    {
+      "id": 7,
+      "name": "user",
+      "role": "admin",
+      "created_on": "11/11/2022"
+    }
+  ]
+}

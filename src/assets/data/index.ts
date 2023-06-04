@@ -1,0 +1,11 @@
+export { default as newClientsData } from "./newclients.json";
+export { default as clientsData } from "./clients.json";
+export { default as expertsData } from "./experts.json";
+export { default as PurchasesData } from "./purchases.json";
+export { default as FeedbacksData } from "./feedbacks.json";
+export { default as ServicesData } from "./services.json";
+export { default as UsersData } from "./users.json";
+export { default as BlogsData } from "./blogs.json";
+export { default as CreatedMealsData } from "./created_meals.json";
+export { default as SuggestedMealsData } from "./suggestedmeals.json";
+export { default as MealsData } from "./meals.json";

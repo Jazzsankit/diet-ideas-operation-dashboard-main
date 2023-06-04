@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "meal_name": "Nasi Lemak + Ayam Goreng",
+    "carbs": 33,
+    "protein": 20,
+    "fat": 20,
+    "calories": 510,
+    "date_created": "11/11/2022"
+  },
+  {
+    "id": 2,
+    "meal_name": "Nasi Lemak + Ayam Goreng",
+    "carbs": 33,
+    "protein": 20,
+    "fat": 20,
+    "calories": 510,
+    "date_created": "11/11/2022"
+  },
+  {
+    "id": 3,
+    "meal_name": "Nasi Lemak + Ayam Goreng",
+    "carbs": 33,
+    "protein": 20,
+    "fat": 20,
+    "calories": 510,
+    "date_created": "11/11/2022"
+  },
+  {
+    "id": 4,
+    "meal_name": "Nasi Lemak + Ayam Goreng",
+    "carbs": 33,
+    "protein": 20,
+    "fat": 20,
+    "calories": 510,
+    "date_created": "11/11/2022"
+  },
+  {
+    "id": 5,
+    "meal_name": "Nasi Lemak + Ayam Goreng",
+    "carbs": 33,
+    "protein": 20,
+    "fat": 20,
+    "calories": 510,
+    "date_created": "11/11/2022"
+  }
+]

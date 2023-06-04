@@ -1,0 +1,50 @@
+[
+  {
+    "purchase_ID": "SP0001",
+    "patient_name": "John Doe",
+    "service_name": "Service 1",
+    "price_(RM)": 50.0,
+    "purchase_date": "11/11/2022",
+    "payment_method": "Credit Card"
+  },
+  {
+    "purchase_ID": "SP0001",
+    "patient_name": "John Doe",
+    "service_name": "Service 1",
+    "price_(RM)": 50.0,
+    "purchase_date": "11/11/2022",
+    "payment_method": "Credit Card"
+  },
+  {
+    "purchase_ID": "SP0001",
+    "patient_name": "John Doe",
+    "service_name": "Service 1",
+    "price_(RM)": 50.0,
+    "purchase_date": "11/11/2022",
+    "payment_method": "Credit Card"
+  },
+  {
+    "purchase_ID": "SP0001",
+    "patient_name": "John Doe",
+    "service_name": "Service 1",
+    "price_(RM)": 50.0,
+    "purchase_date": "11/11/2022",
+    "payment_method": "Credit Card"
+  },
+  {
+    "purchase_ID": "SP0001",
+    "patient_name": "John Doe",
+    "service_name": "Service 1",
+    "price_(RM)": 50.0,
+    "purchase_date": "11/11/2022",
+    "payment_method": "Credit Card"
+  },
+  {
+    "purchase_ID": "SP0001",
+    "patient_name": "John Doe",
+    "service_name": "Service 1",
+    "price_(RM)": 50.0,
+    "purchase_date": "11/11/2022",
+    "payment_method": "Credit Card"
+  }
+]
