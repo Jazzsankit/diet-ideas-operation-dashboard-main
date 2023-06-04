@@ -4,7 +4,6 @@ import { Inter } from "next/font/google";
 
 import { useRouter } from "next/router";
 import { FaCloudUploadAlt, FaImage } from "react-icons/fa";
-import axios from 'axios';
 
 const inter500 = Inter({
   subsets: ["latin"],
